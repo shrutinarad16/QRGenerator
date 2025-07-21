@@ -18,7 +18,7 @@ Welcome to the **QR Code Generator** — a clean, efficient, and fully responsiv
 
 ## 📸 Live Demo
 
-> 🔗 [**Try It Now (Live Preview)**](#) *(Optional: Add GitHub Pages or Netlify link)*
+> 🔗 [**https://shrutinarad16.github.io/QRGenerator/**](#)
 
 ---
 
