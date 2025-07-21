@@ -47,7 +47,7 @@ Welcome to the **QR Code Generator** — a clean, efficient, and fully responsiv
 **Shruti Narad**  
 💼 Software Engineer | 💡 Problem Solver | 🔐 Passionate about Clean Code  
 📧 shrutinarad06@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/shrutinarad16) | [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://www.linkedin.com/in/shrutinarad16) | [GitHub](https://github.com/shrutinarad16)
 
 ---
 
@@ -55,4 +55,4 @@ Welcome to the **QR Code Generator** — a clean, efficient, and fully responsiv
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
+   git clone https://github.com/shrutinarad16/QRGenerator.git
